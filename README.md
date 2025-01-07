@@ -22,25 +22,25 @@
       <td style="border: 1px solid #ccc; padding: 8px;">2</td>
       <td style="border: 1px solid #ccc; padding: 8px;">19231005</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Imam Dzaki Ramadhan</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">#</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Anggota</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 8px;">3</td>
       <td style="border: 1px solid #ccc; padding: 8px;">19230942</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Hendrika Yonggon</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">#</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Anggota</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 8px;">4</td>
       <td style="border: 1px solid #ccc; padding: 8px;">19231372</td>
       <td style="border: 1px solid #ccc; padding: 8px;">M. Tauhid Al-Fatah</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">#</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Anggota</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 8px;">5</td>
       <td style="border: 1px solid #ccc; padding: 8px;">19231076</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Primatama Ziddane</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">#</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Anggota</td>
     </tr>
   </tbody>
 </table>
